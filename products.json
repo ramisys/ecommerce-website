@@ -1,0 +1,60 @@
+{
+    "products": [
+        {
+            "name": "Iphone 16",
+            "shortdesc": "iPhone 16",
+            "description": "The iPhone 16, released in 2024, features enhanced performance with the A18 chip, improved camera capabilities, longer battery life, and introduces the customizable Action Button for quick access to functions.",
+            "price": 799,
+            "image": "img/product1.png"
+        },
+        {
+            "name": "Iphone 16 Pro",
+            "shortdesc": "iPhone 16 Pro",
+            "description": "The iPhone 16 Pro, launched in 2024, boasts a sleek design with a 6.1-inch Super Retina XDR display, powered by the A18 chip, and features a powerful 48MP rear camera system, a new Action Button, and enhanced battery life for up to 23 hours of video playback.",
+            "price": 999,
+            "image": "img/product2.png"
+        },
+        {
+            "name": "Iphone 16 Pro Max",
+            "shortdesc": "iPhone 16 Pro Max",
+            "description": "The iPhone 16 Pro Max, launched in 2024, features a large 6.7-inch Super Retina XDR display, powered by the A18 chip for enhanced performance. It includes a 48MP rear camera system, a customizable Action Button, and offers an impressive 29 hours of battery life, making it ideal for power users.",
+            "price": 1199,
+            "image": "img/product3.png"
+        },
+        {
+            "name": "Iphone 15",
+            "shortdesc": "iPhone 15",
+            "description": "The iPhone 15, released by Apple, features a sleek design with a 6.1-inch OLED display and the new A17 Pro chip, offering faster performance and improved energy efficiency. It comes with a 48MP main camera and improved photographic capabilities, including advanced AI processing for better low-light and portrait shots. The device also introduces USB-C charging, replacing the Lightning port, and offers enhanced durability with a Ceramic Shield front cover. Available in various colors, the iPhone 15 also supports 5G connectivity, making it a top-tier choice for users looking for premium performance and features.",
+            "price": 799,
+            "image": "img/product4.png"
+        },
+        {
+            "name": "Iphone 14",
+            "shortdesc": "iPhone 14",
+            "description": "The iPhone 14, launched in September 2022, features a 6.1-inch OLED Super Retina XDR display and is powered by the A15 Bionic chip, offering solid performance for everyday tasks and gaming. It includes a 12MP dual-camera system with improved low-light performance, featuring a main and ultra-wide lens. The iPhone 14 also offers enhanced safety features like Crash Detection, which can alert emergency services in the event of a severe car accident. It supports 5G connectivity and comes with Ceramic Shield for improved durability, making it a reliable and affordable choice for users.",
+            "price": 699,
+            "image": "img/product5.png"
+        },
+        {
+            "name": "Iphone X",
+            "shortdesc": "iPhone X",
+            "description": "The iPhone X, released in 2017, was a major redesign for Apple, featuring a 5.8-inch Super Retina OLED display that extended to the edges of the phone, eliminating the home button. It introduced Face ID for facial recognition, replacing Touch ID. Powered by the A11 Bionic chip, the iPhone X had dual 12MP rear cameras with optical image stabilization and support for portrait mode. It also featured wireless charging and was the first iPhone to fully embrace the edge-to-edge display. The iPhone X marked the 10th anniversary of the iPhone and set the standard for future iPhone designs.",
+            "price": 299,
+            "image": "img/product6.png"
+        },
+        {
+            "name": "Iphone SE 3",
+            "shortdesc": "iPhone SE 3",
+            "description": "The iPhone SE 3, released in 2022, is a budget-friendly model that combines the classic design of the iPhone 8 with the powerful A15 Bionic chip, making it a strong performer for its price. It features a 4.7-inch Retina HD display and a 12MP rear camera, which offers improved photographic capabilities with features like Smart HDR 4 and Deep Fusion. The device supports 5G connectivity and retains the Touch ID button for fingerprint security. The iPhone SE 3 is ideal for users who want modern performance in a compact and affordable package.",
+            "price": 429,
+            "image": "img/product7.png"
+        },
+        {
+            "name": "Iphone 8 Plus",
+            "shortdesc": "iPhone 8 Plus",
+            "description": "The iPhone 8 Plus, released in 2017, features a 5.5-inch Retina HD display with True Tone for a more natural viewing experience. Powered by the A11 Bionic chip, it offers solid performance for its time, handling tasks and gaming with ease. The device has a dual 12MP rear camera system with optical image stabilization on both lenses, enabling better photos, especially in low light. It also supports wireless charging and has Touch ID for secure fingerprint authentication. The iPhone 8 Plus remains a reliable option for users looking for a larger screen and classic design.",
+            "price": 99,
+            "image": "img/product8.png"
+        }
+    ]
+}
